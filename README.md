@@ -6,7 +6,7 @@
 
 ## Description
 
-Unify developed using react.js
+TicTacToe developed using react.js
 
 ### Executing program
 
